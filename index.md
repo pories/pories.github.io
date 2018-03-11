@@ -17,6 +17,7 @@ examples. Just to let you get a feel for me.
  
 Oh, and one small sour note. I do this for money. Not for exposure, not for X% of the profit of your great idea. I have every confidence 
 that your project will make you very rich, but I don’t work on a percentage. Sorry about that. Not trying to be rude, I just get hit up 
-for free work all the time, and this seems like the most graceful way to save us both some embarrassment. 
-Thanks!
+for free work all the time, and this seems like the most graceful way to save us both some embarrassment.  
+
+Thanks!  
 Mike
