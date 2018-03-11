@@ -13,7 +13,7 @@ examples. Just to let you get a feel for me.
 *I work well with clients, teams, or one on one.  
 *I live in the Microsoft world, with a bit of Linux thrown in.
 *I try to make non technical people feel great about their experiences with coders.  
-*I am always learning, experimenting, and trying new things. I keep redoing things in my repositories. They are for play. </br>
+*I am always learning, experimenting, and trying new things. I keep redoing things in my repositories. They are for play.
  
 Oh, and one small sour note. I do this for money. Not for exposure, not for X% of the profit of your great idea. I have every confidence 
 that your project will make you very rich, but I don’t work on a percentage. Sorry about that. Not trying to be rude, I just get hit up 
