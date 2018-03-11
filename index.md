@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pories/pories.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pories/pories.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Hello & Welcome!!
+Welcome to my silly little GitHub landing page. Here you will find lots of small and silly examples of code. I have also put in a few 
+examples of the classic design patterns with a few classic coding questions & answers. Many of these examples are, lets face it, overly 
+simplistic. I have never had to solve fizz buzz for a client, but people seen to like that sort of thing, so it is in there. Anyone who 
+pays me to code for them wants me to keep their code confidential, so the examples of code here are just a hodge podge of things that I 
+wrote that I thought would be fun, and that I thought would be of interest to someone who wants to see some code examples. If you have 
+come this far, just click on the button above and that will take you to my repository. There you will find a ton of C# code, ASP.Net: Web 
+forms and Core, Might even be some HTML/CSS/JavaScript/JQuery, who knows?  Please let me reiterate. These are just simple coding 
+examples. Just to let you get a feel for me.</br>
+</br>
+### Some quick notes about me. </br>
+-I work well with clients, teams, or one on one. </br>
+-I live in the Microsoft world, with a bit of Linux thrown in. </br>
+-I try to make non technical people feel great about their experiences with coders. </br>
+-I am always learning, experimenting, and trying new things. I keep redoing things in my repositories. They are for play. </br>
+ </br>
+Oh, and one small sour note. I do this for money. Not for exposure, not for X% of the profit of your great idea. I have every confidence 
+that your project will make you very rich, but I don’t work on a percentage. Sorry about that. Not trying to be rude, I just get hit up 
+for free work all the time, and this seems like the most graceful way to save us both some embarrassment. </br>
+Thanks!</br>
+Mike
