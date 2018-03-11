@@ -12,7 +12,7 @@ examples. Just to let you get a feel for me.
 ### Some quick notes about me. 
 *I work well with clients, teams, or one on one.  
 *I live in the Microsoft world, with a bit of Linux thrown in.
-*I try to make non technical people feel great about their experiences with coders. 
+*I try to make non technical people feel great about their experiences with coders.  
 *I am always learning, experimenting, and trying new things. I keep redoing things in my repositories. They are for play. </br>
  
 Oh, and one small sour note. I do this for money. Not for exposure, not for X% of the profit of your great idea. I have every confidence 
