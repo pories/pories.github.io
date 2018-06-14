@@ -1,22 +1,16 @@
 # Hello & Welcome!!  
-Welcome to my silly little GitHub landing page. Here you will find lots of small and silly examples of my coding. This repository is ever changing, but for right now I have examples of:  
-* A few classic design patterns from the Gang of Four.  
-* A few classic coding questions and answers.  
-* Some basic C# programs.  
-* A few Leet Code questions and answers.  
-* Might even be some HTML/CSS/JavaScript/JQuery/Bootstrap!  
-* Whatever else strikes my fancy.  
-  
-Many of these examples are, lets face it, overly simplistic. I have never had to solve fizz buzz for a client, but people seen to like that sort of thing, so it is in there. Anyone who pays me to code for them wants me to keep their code confidential, so the examples of code here are just a hodgepodge of things that I wrote that I thought would be fun, and that I thought would be of interest to someone who wants to see some code examples. If you have come this far, just click on the button above and that will take you to my repository. Don’t forget to check out the branches, that is where the fun is!  
-  
-### Some quick notes about me.  
-* I work well with clients, teams, or one on one.  
-* I live in the Microsoft world, with a bit of Linux thrown in.  
-* I try to make non technical people feel great about their experiences with coders.  
-* I am always learning, experimenting, and trying new things. I keep redoing things in my repositories. They are for play.  
-    
-One small sour note. I do this for money. Not for exposure, not for X% of the profit of your great idea. I have every confidence that your project will make you very rich, but I don’t work on a percentage. Sorry about that. Not trying to be rude. I just get hit up for free work all the time, and this seems like the most graceful way to save us both some embarrassment.  
-  
-Thanks!  
-Mike
+My name is Michael Pories. I am a mid level full stack software developer.
+Some fun things about me!
+
+I have a life long commitment to learning, and never stop in my quest to keep on top of both new technologies and new techniques in current technologies.
+
+I enjoy talking to both technical and non technical people about technical issues. Due to that I have extensive client facing experience. I make people feel at home in an environment that is difficult, and both time consuming and scary for them. 
+
+I have a broad range of exposure to various forms of information systems technologies, and in-depth knowledge of a variety of software languages and frameworks including but not limited to C#, HTML(5), CSS(3), Bootstrap, JavaScript, Node.js, JQuery, SQL (Sequel), T-SQL (Tansact-SQL), LINQ (Language Integrated Query), Entity, ASP.Net Framework/Core, ASP.Net MVC, ASP.Net WebForms, WPF, WinForms, REST, SOAP, JSON, APIs, XML. 
+
+I work well in an agile environment, and I am most comfortable with GitHub as my version control system, but am happy to work in any version control system. I have a strong understanding of the GOF design principles and their implementations, OOP, and a commitment to SOLID design principles.
+
+I spend most of my time programming in the following ways: new features, touch ups, optimization changes, and bug fixes.  That doesn’t mean that I haven’t worked in a green field, but I have done more work fixing code than anything else.
+
+In your advertisement you said you wanted the following things that I have extensive experience with: Clean, efficient, reusable, and reliable C# code with great performance, quality and responsiveness. 
      
