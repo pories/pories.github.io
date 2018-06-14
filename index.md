@@ -1,5 +1,5 @@
 # Hello & Welcome!!  
-WWelcome to my silly little GitHub landing page. Here you will find lots of small and silly examples of my coding. This repository is ever changing, but for right now I have examples of:  
+Welcome to my silly little GitHub landing page. Here you will find lots of small and silly examples of my coding. This repository is ever changing, but for right now I have examples of:  
 * A few classic design patterns from the Gang of Four.  
 * A few classic coding questions and answers.  
 * Some basic C# programs.  
