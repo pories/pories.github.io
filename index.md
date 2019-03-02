@@ -11,6 +11,7 @@ I have a broad range of exposure to various forms of information systems technol
 I work well in an agile environment, and I am most comfortable with GitHub as my version control system, but am happy to work in any version control system. I have a strong understanding of the GOF design principles and their implementations, OOP, and a commitment to SOLID design principles.
 
 I spend most of my time programming in the following ways: new features, touch ups, optimization changes, and bug fixes.  That doesn’t mean that I haven’t worked in a green field, but I have done more work fixing code than anything else. If you want clean, efficient, reusable, and reliable code with great performance, quality and responsiveness I am your man.
+
 Please don't hesitate to contact me if you have any questions!
 
  
